@@ -1,2 +1,1 @@
-First programm calculate sum of the sequence
-Second programm calculate multiplication of all terms of the sequence
+Implementation of a doubly linked list of C.
